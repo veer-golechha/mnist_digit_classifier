@@ -12,7 +12,7 @@ Ever wondered how computers can read handwritten numbers? This project lets you 
 - Support for custom model integration 🔧
 
 ## Prerequisites 📋
-- Python 3.9 and higher 🐍
+- Python version between 3.9 to 3.11 🐍
 - pip package manager 📦
 
 ## Installation 💻
@@ -25,7 +25,7 @@ cd mnist_digit_classifier
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install pygame==2.5.2 tensorflow==2.15.0
 ```
 
 ## Usage 🚀
